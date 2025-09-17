@@ -1,35 +1,33 @@
-version: '3.8'
+version: "3.8"
 
 services:
   # db
   db:
-    image: mysql
-    volumes:
-      - db_data:/var/lib/mysql
+    build:
+      context: ./db
+      args:
+        MYSQL_DATABASE: ${MYSQL_DATABASE}
+        MYSQL_USER: ${MYSQL_USER}
+        MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+        MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
     restart: always
-    environment:
-      MYSQL_DATABASE: db4er4tqgundsj
-      MYSQL_USER: uavwvdsrlq1gf
-      MYSQL_PASSWORD: vtaf6ksabu2i
-      MYSQL_ROOT_PASSWORD: password
     ports:
       - "3306:3306"
   
   # wordpress
-  wordpres:
-    depends_on:
-      - db
-    image: wordpress
-    ports:
-      - 8080:80
-    restart: always
-    volumes:
-      - ./app:/var/www/html
-    environment:
-      WORDPRESS_DB_HOST: db:3306
-      WORDPRESS_DB_NAME: db4er4tqgundsj
-      WORDPRESS_DB_USER: uavwvdsrlq1gf
-      WORDPRESS_DB_PASSWORD: vtaf6ksabu2i
-
-volumes:
-  db_data:
+  # wordpress:
+  #   depends_on:
+  #     - db
+  #   image: wordpress
+  #   ports:
+  #     - 8080:80
+  #   restart: always
+  #   volumes:
+  #     - ./app/wp-content:/var/www/html/wp-content
+  #     - ./app/wp-admin:/var/www/html/wp-admin
+  #     - ./app/wp-includes:/var/www/html/wp-includes
+  #   environment:
+  #     WORDPRESS_DB_HOST: db:3306
+  #     WORDPRESS_DB_NAME: ${MYSQL_DATABASE}
+  #     WORDPRESS_DB_USER: ${MYSQL_USER}
+  #     WORDPRESS_DB_PASSWORD: ${MYSQL_PASSWORD}
