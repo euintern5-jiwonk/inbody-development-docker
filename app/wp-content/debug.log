@@ -1,0 +1,66 @@
+[15-Sep-2025 14:48:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/wp-includes/option.php on line 308
+[15-Sep-2025 14:48:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/option.php:308) in /var/www/html/wp-admin/maint/repair.php on line 12
+[16-Sep-2025 07:05:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/wp-includes/option.php on line 308
+[16-Sep-2025 07:05:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/option.php:308) in /var/www/html/wp-admin/maint/repair.php on line 12
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/wp-includes/option.php on line 308
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/option.php:308) in /var/www/html/wp-admin/maint/repair.php on line 12
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 114
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 119
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 124
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 129
+[16-Sep-2025 07:14:10 UTC] PHP Warning:  Attempt to read property "Msg_text" on null in /var/www/html/wp-admin/maint/repair.php on line 130
